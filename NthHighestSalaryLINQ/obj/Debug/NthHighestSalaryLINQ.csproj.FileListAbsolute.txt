@@ -1,0 +1,5 @@
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\NthHighestSalaryLINQ\bin\Debug\NthHighestSalaryLINQ.exe.config
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\NthHighestSalaryLINQ\bin\Debug\NthHighestSalaryLINQ.exe
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\NthHighestSalaryLINQ\bin\Debug\NthHighestSalaryLINQ.pdb
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\NthHighestSalaryLINQ\obj\Debug\NthHighestSalaryLINQ.exe
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\NthHighestSalaryLINQ\obj\Debug\NthHighestSalaryLINQ.pdb

@@ -1,0 +1,13 @@
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\SelectAndFirst\bin\Debug\SelectAndFirst.exe.config
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\SelectAndFirst\bin\Debug\SelectAndFirst.exe
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\SelectAndFirst\bin\Debug\SelectAndFirst.pdb
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\SelectAndFirst\obj\Debug\SelectAndFirst.csprojResolveAssemblyReference.cache
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\SelectAndFirst\obj\Debug\SelectAndFirst.exe
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\SelectAndFirst\obj\Debug\SelectAndFirst.pdb
+F:\Learn\C sharp Samples\C# Samples\C Sharp Samples\SelectAndFirst\bin\Debug\SelectAndFirst.exe.config
+F:\Learn\C sharp Samples\C# Samples\C Sharp Samples\SelectAndFirst\bin\Debug\SelectAndFirst.exe
+F:\Learn\C sharp Samples\C# Samples\C Sharp Samples\SelectAndFirst\bin\Debug\SelectAndFirst.pdb
+F:\Learn\C sharp Samples\C# Samples\C Sharp Samples\SelectAndFirst\obj\Debug\SelectAndFirst.csprojResolveAssemblyReference.cache
+F:\Learn\C sharp Samples\C# Samples\C Sharp Samples\SelectAndFirst\obj\Debug\SelectAndFirst.csproj.CoreCompileInputs.cache
+F:\Learn\C sharp Samples\C# Samples\C Sharp Samples\SelectAndFirst\obj\Debug\SelectAndFirst.exe
+F:\Learn\C sharp Samples\C# Samples\C Sharp Samples\SelectAndFirst\obj\Debug\SelectAndFirst.pdb

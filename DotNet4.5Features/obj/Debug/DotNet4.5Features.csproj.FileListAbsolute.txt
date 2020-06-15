@@ -1,0 +1,5 @@
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\DotNet4.5Features\bin\Debug\DotNet4.5Features.exe.config
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\DotNet4.5Features\bin\Debug\DotNet4.5Features.exe
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\DotNet4.5Features\bin\Debug\DotNet4.5Features.pdb
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\DotNet4.5Features\obj\Debug\DotNet4.5Features.exe
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\DotNet4.5Features\obj\Debug\DotNet4.5Features.pdb

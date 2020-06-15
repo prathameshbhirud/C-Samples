@@ -1,0 +1,5 @@
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\MultipleInheritance\bin\Debug\MultipleInheritance.exe.config
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\MultipleInheritance\bin\Debug\MultipleInheritance.exe
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\MultipleInheritance\bin\Debug\MultipleInheritance.pdb
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\MultipleInheritance\obj\Debug\MultipleInheritance.exe
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\MultipleInheritance\obj\Debug\MultipleInheritance.pdb

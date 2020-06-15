@@ -1,0 +1,5 @@
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\NameOfSample\bin\Debug\NameOfSample.exe.config
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\NameOfSample\bin\Debug\NameOfSample.exe
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\NameOfSample\bin\Debug\NameOfSample.pdb
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\NameOfSample\obj\Debug\NameOfSample.exe
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\NameOfSample\obj\Debug\NameOfSample.pdb

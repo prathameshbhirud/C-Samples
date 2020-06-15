@@ -1,0 +1,8 @@
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+F:\Learn\C sharp Samples\C# Samples\C Sharp Samples\Inheritance\bin\Debug\Inheritance.exe.config
+F:\Learn\C sharp Samples\C# Samples\C Sharp Samples\Inheritance\bin\Debug\Inheritance.exe
+F:\Learn\C sharp Samples\C# Samples\C Sharp Samples\Inheritance\bin\Debug\Inheritance.pdb
+F:\Learn\C sharp Samples\C# Samples\C Sharp Samples\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+F:\Learn\C sharp Samples\C# Samples\C Sharp Samples\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+F:\Learn\C sharp Samples\C# Samples\C Sharp Samples\Inheritance\obj\Debug\Inheritance.exe
+F:\Learn\C sharp Samples\C# Samples\C Sharp Samples\Inheritance\obj\Debug\Inheritance.pdb

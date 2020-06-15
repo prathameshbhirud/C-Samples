@@ -1,0 +1,6 @@
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\C Sharp Samples\bin\Debug\SelectAndSelectMany.exe.config
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\C Sharp Samples\bin\Debug\SelectAndSelectMany.exe
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\C Sharp Samples\bin\Debug\SelectAndSelectMany.pdb
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\C Sharp Samples\obj\Debug\SelectAndSelectMany.csprojResolveAssemblyReference.cache
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\C Sharp Samples\obj\Debug\SelectAndSelectMany.exe
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\C Sharp Samples\obj\Debug\SelectAndSelectMany.pdb

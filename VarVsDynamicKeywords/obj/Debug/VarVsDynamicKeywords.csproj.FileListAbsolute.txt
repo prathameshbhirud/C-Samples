@@ -1,0 +1,5 @@
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\VarVsDynamicKeywords\bin\Debug\VarVsDynamicKeywords.exe.config
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\VarVsDynamicKeywords\bin\Debug\VarVsDynamicKeywords.exe
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\VarVsDynamicKeywords\bin\Debug\VarVsDynamicKeywords.pdb
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\VarVsDynamicKeywords\obj\Debug\VarVsDynamicKeywords.exe
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\VarVsDynamicKeywords\obj\Debug\VarVsDynamicKeywords.pdb

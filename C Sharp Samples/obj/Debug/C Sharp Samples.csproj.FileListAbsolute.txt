@@ -1,0 +1,6 @@
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\C Sharp Samples\bin\Debug\C Sharp Samples.exe.config
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\C Sharp Samples\bin\Debug\C Sharp Samples.exe
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\C Sharp Samples\bin\Debug\C Sharp Samples.pdb
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\C Sharp Samples\obj\Debug\C Sharp Samples.csprojResolveAssemblyReference.cache
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\C Sharp Samples\obj\Debug\C Sharp Samples.exe
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\C Sharp Samples\obj\Debug\C Sharp Samples.pdb

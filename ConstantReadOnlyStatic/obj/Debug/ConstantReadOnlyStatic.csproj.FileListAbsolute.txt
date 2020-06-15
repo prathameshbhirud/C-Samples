@@ -1,0 +1,5 @@
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\ConstantReadOnlyStatic\bin\Debug\ConstantReadOnlyStatic.exe.config
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\ConstantReadOnlyStatic\bin\Debug\ConstantReadOnlyStatic.exe
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\ConstantReadOnlyStatic\bin\Debug\ConstantReadOnlyStatic.pdb
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\ConstantReadOnlyStatic\obj\Debug\ConstantReadOnlyStatic.exe
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\ConstantReadOnlyStatic\obj\Debug\ConstantReadOnlyStatic.pdb

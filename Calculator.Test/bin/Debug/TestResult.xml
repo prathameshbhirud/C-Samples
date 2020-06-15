@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Projects\Sample Codes\C# Samples\C Sharp Samples\Calculator.Test\bin\Debug\Calculator.Test.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2017-07-05" time="11:56:47">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8662" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\prathamesh.p.bhirud\Downloads\NUnit-2.6.4\NUnit-2.6.4\bin" machine-name="M5-D-8H8ZQG2" user="prathamesh.p.bhirud" user-domain="DIR" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Projects\Sample Codes\C# Samples\C Sharp Samples\Calculator.Test\bin\Debug\Calculator.Test.dll" executed="True" result="Success" success="True" time="0.137" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Calculator" executed="True" result="Success" success="True" time="0.128" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Test" executed="True" result="Success" success="True" time="0.127" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="TestClass" executed="True" result="Success" success="True" time="0.110" asserts="0">
+                <results>
+                  <test-suite type="ParameterizedTest" name="CompareObjects" executed="True" result="Success" success="True" time="0.103" asserts="0">
+                    <results>
+                      <test-case name="Calculator.Test.TestClass.CompareObjects()" executed="True" result="Success" success="True" time="0.097" asserts="1" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

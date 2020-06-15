@@ -1,0 +1,5 @@
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\Pointers\bin\Debug\Pointers.exe.config
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\Pointers\bin\Debug\Pointers.exe
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\Pointers\bin\Debug\Pointers.pdb
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\Pointers\obj\Debug\Pointers.exe
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\Pointers\obj\Debug\Pointers.pdb

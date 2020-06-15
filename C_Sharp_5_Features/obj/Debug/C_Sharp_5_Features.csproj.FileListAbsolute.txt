@@ -1,0 +1,6 @@
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\C_Sharp_5_Features\bin\Debug\C_Sharp_5_Features.exe.config
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\C_Sharp_5_Features\bin\Debug\C_Sharp_5_Features.exe
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\C_Sharp_5_Features\bin\Debug\C_Sharp_5_Features.pdb
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\C_Sharp_5_Features\obj\Debug\C_Sharp_5_Features.csprojResolveAssemblyReference.cache
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\C_Sharp_5_Features\obj\Debug\C_Sharp_5_Features.exe
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\C_Sharp_5_Features\obj\Debug\C_Sharp_5_Features.pdb

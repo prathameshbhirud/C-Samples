@@ -1,0 +1,13 @@
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\CallByValueAndCallByRef\bin\Debug\CallByValueAndCallByRef.exe.config
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\CallByValueAndCallByRef\bin\Debug\CallByValueAndCallByRef.exe
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\CallByValueAndCallByRef\bin\Debug\CallByValueAndCallByRef.pdb
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\CallByValueAndCallByRef\obj\Debug\CallByValueAndCallByRef.csprojResolveAssemblyReference.cache
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\CallByValueAndCallByRef\obj\Debug\CallByValueAndCallByRef.exe
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\CallByValueAndCallByRef\obj\Debug\CallByValueAndCallByRef.pdb
+F:\Learn\C sharp Samples\C# Samples\C Sharp Samples\CallByValueAndCallByRef\bin\Debug\CallByValueAndCallByRef.exe.config
+F:\Learn\C sharp Samples\C# Samples\C Sharp Samples\CallByValueAndCallByRef\bin\Debug\CallByValueAndCallByRef.exe
+F:\Learn\C sharp Samples\C# Samples\C Sharp Samples\CallByValueAndCallByRef\bin\Debug\CallByValueAndCallByRef.pdb
+F:\Learn\C sharp Samples\C# Samples\C Sharp Samples\CallByValueAndCallByRef\obj\Debug\CallByValueAndCallByRef.csprojResolveAssemblyReference.cache
+F:\Learn\C sharp Samples\C# Samples\C Sharp Samples\CallByValueAndCallByRef\obj\Debug\CallByValueAndCallByRef.csproj.CoreCompileInputs.cache
+F:\Learn\C sharp Samples\C# Samples\C Sharp Samples\CallByValueAndCallByRef\obj\Debug\CallByValueAndCallByRef.exe
+F:\Learn\C sharp Samples\C# Samples\C Sharp Samples\CallByValueAndCallByRef\obj\Debug\CallByValueAndCallByRef.pdb

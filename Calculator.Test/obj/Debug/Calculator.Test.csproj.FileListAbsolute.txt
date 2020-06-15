@@ -1,0 +1,9 @@
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\Calculator.Test\bin\Debug\Calculator.Test.dll
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\Calculator.Test\bin\Debug\Calculator.Test.pdb
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\Calculator.Test\bin\Debug\Calculator.exe
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\Calculator.Test\bin\Debug\nunit.framework.dll
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\Calculator.Test\bin\Debug\Calculator.pdb
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\Calculator.Test\bin\Debug\nunit.framework.xml
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\Calculator.Test\obj\Debug\Calculator.Test.csprojResolveAssemblyReference.cache
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\Calculator.Test\obj\Debug\Calculator.Test.dll
+C:\Projects\Sample Codes\C# Samples\C Sharp Samples\Calculator.Test\obj\Debug\Calculator.Test.pdb
